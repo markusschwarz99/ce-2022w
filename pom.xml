@@ -19,5 +19,6 @@
 	<modules>
 		<module>client</module>
 		<module>server</module>
+		<module>passwordGenerator</module>
 	</modules>
 </project>
